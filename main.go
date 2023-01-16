@@ -8,5 +8,5 @@ func main() {
 	fmt.Println("hi3")
 	fmt.Println("hi4")
 	fmt.Println("hi5")
-	fmt.Println("hi6")
+	fmt.Println("hi8")
 }
